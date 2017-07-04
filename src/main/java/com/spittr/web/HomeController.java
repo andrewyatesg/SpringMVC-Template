@@ -1,4 +1,4 @@
-package com.spittr;
+package com.spittr.web;
 
 import org.apache.log4j.Logger;
 import org.springframework.stereotype.Controller;
